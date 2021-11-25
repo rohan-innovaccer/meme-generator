@@ -1,0 +1,41 @@
+.primary-btn{
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    margin: 1rem 2rem;
+}
+
+.primary-btn:hover{
+  background: white;
+  color: #2563eb;
+  border: 1px solid #2563eb;
+} 
+
+.secondary-btn{
+    background: white;
+    color: #2563eb;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    margin: 1rem 2rem;
+}
+
+.secondary-btn:hover{
+    background: #2563eb;
+    color: white;
+  } 
+
+  input{
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-right: 1rem;
+  }
+
+  .output{
+    width: 400px;
+    height: 400px;
+  }

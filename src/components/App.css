@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background: #FEF3C7;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.generate-btn {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  margin: auto;
+  border-radius: 1rem;
+  display: block;
+}
+
+.generate-btn:hover{
+  background: white;
+  color: #2563eb;
+} 
